@@ -1,4 +1,4 @@
-# DUNGEON BLASTER
+# Top-Down Shooter
 
 A 2D Top-Down Shooter and Dungeon Crawler currently in development. Please stay tuned for updates!
 
